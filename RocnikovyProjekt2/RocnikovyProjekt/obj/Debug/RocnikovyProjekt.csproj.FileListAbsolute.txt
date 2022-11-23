@@ -1,0 +1,11 @@
+G:\RocnikovyProjekt2\RocnikovyProjekt\bin\Debug\RocnikovyProjekt.exe.config
+G:\RocnikovyProjekt2\RocnikovyProjekt\bin\Debug\RocnikovyProjekt.exe
+G:\RocnikovyProjekt2\RocnikovyProjekt\bin\Debug\RocnikovyProjekt.pdb
+G:\RocnikovyProjekt2\RocnikovyProjekt\obj\Debug\RocnikovyProjekt.csprojAssemblyReference.cache
+G:\RocnikovyProjekt2\RocnikovyProjekt\obj\Debug\RocnikovyProjekt.Form1.resources
+G:\RocnikovyProjekt2\RocnikovyProjekt\obj\Debug\RocnikovyProjekt.game.resources
+G:\RocnikovyProjekt2\RocnikovyProjekt\obj\Debug\RocnikovyProjekt.Properties.Resources.resources
+G:\RocnikovyProjekt2\RocnikovyProjekt\obj\Debug\RocnikovyProjekt.csproj.GenerateResource.cache
+G:\RocnikovyProjekt2\RocnikovyProjekt\obj\Debug\RocnikovyProjekt.csproj.CoreCompileInputs.cache
+G:\RocnikovyProjekt2\RocnikovyProjekt\obj\Debug\RocnikovyProjekt.exe
+G:\RocnikovyProjekt2\RocnikovyProjekt\obj\Debug\RocnikovyProjekt.pdb
