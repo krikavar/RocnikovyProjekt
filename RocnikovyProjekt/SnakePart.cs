@@ -19,7 +19,13 @@ namespace RocnikovyProjekt
             this.cast = cast;
 
         }
+        public SnakePart(SnakePart snakePart)
+        {
+            this.x = snakePart.getX();
+            this.y = snakePart.getY();
+            this.cast = snakePart.getCast();
 
+        }
         public int getX()
         {
             return x;

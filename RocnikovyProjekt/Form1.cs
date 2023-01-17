@@ -21,7 +21,7 @@ namespace RocnikovyProjekt
 
         private void button1_Click(object sender, EventArgs e)
         {
-            game game = new game(10, 10);
+            game game = new game(20, 20);
             game.Show();
         }
     }
